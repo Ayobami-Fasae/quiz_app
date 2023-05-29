@@ -49,7 +49,7 @@ const questions = [
       'By calling setState()',
       'By calling updateData()',
       'By calling updateUI()',
-      'By calling updateState()',
+      'By not calling updateState()',
     ],
   ),
 ];
